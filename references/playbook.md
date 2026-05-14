@@ -1,6 +1,6 @@
-# LLMS Shopify Enhancement Reference
+# LLMS.txt Shopify Enhancement Reference
 
-This reference supports the LLMS Shopify Enhancement Skill. Use it to expand Shopify's native, auto-generated `llms.txt` into a richer storefront map and optional exhaustive `llms-full.txt`.
+This reference supports the LLMS.txt Shopify Enhancement Skill. Use it to expand Shopify's native, auto-generated `llms.txt` into a richer storefront map and optional exhaustive `llms-full.txt`.
 
 The baseline is Shopify's generated agent-discovery output. The enhancement pass should preserve useful Shopify commerce details while adding the canonical pages that agents actually need to answer shopper questions.
 

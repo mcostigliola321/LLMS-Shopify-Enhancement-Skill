@@ -1,4 +1,4 @@
-# LLMS Shopify Enhancement Skill
+# LLMS.txt Shopify Enhancement Skill
 
 Enhance Shopify's auto-generated `llms.txt` into a richer, agent-ready storefront map.
 

@@ -6,7 +6,7 @@ metadata:
   short-description: Enhance Shopify llms.txt files
 ---
 
-# LLMS Shopify Enhancement Skill
+# LLMS.txt Shopify Enhancement Skill
 
 Use this skill when the user wants to enhance the auto-generated `llms.txt` that exists on a Shopify storefront. The skill starts from Shopify's native agent-discovery files, then adds the missing editorial structure that helps AI agents understand the store: core categories, collections, product-guide pages, support pages, warranty/returns pages, live catalog patterns, and Shopify-ready Liquid template files.
 
